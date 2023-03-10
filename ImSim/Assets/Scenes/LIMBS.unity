@@ -3276,7 +3276,7 @@ MonoBehaviour:
         - 
         - 
         actionEnabled: 0001010101000101010101010101
-        actionIsOpen: 0000000000000001000000000001
+        actionIsOpen: 0000000000000000000000000001
         actionStartIndex: 000000000200000004000000090000000c0000001100000013000000180000001d0000002100000024000000280000002d00000032000000
         actionHashCodes: 9bd6f801d97b7202081bbf05603dd905081bbf059bd6f801070f3000f9152503184b57049ff80c02184b5704a0dd8303b2cf1000febdb401
         unityObjectParams: []
@@ -7523,7 +7523,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: af1613d79e9cbe743b9950e6e2004b1d, type: 3}
       propertyPath: m_Layer
-      value: 0
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 1082271958561512970, guid: af1613d79e9cbe743b9950e6e2004b1d, type: 3}
       propertyPath: m_Layer
